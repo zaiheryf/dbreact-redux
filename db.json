@@ -1,0 +1,15 @@
+{
+    "user":[
+        { "id": 1, "name": "Zainurrohman", "alamat": "subang" },
+        { "id": 2, "name": "Panji", "alamat": "bandung" },
+        { "id": 3, "name": "Agung", "alamat": "jakarta" },
+        { "id": 4, "name": "Agung", "alamat": "jakarta" },
+        { "id": 5, "name": "Agung", "alamat": "jakarta" },
+        { "id": 6, "name": "Agung", "alamat": "jakarta" },
+        { "id": 7, "name": "Agung", "alamat": "jakarta" },
+        { "id": 8, "name": "Agung", "alamat": "jakarta" },
+        { "id": 9, "name": "Agung", "alamat": "jakarta" },
+        { "id": 10, "name": "Agung", "alamat": "jakarta" },
+        { "id": 11, "name": "Agung", "alamat": "jakarta" } 
+    ]
+}
